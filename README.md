@@ -31,7 +31,7 @@ Given the fact that it was an analysis activity either way, the focus here has b
 
 ### Hourly Usage - Normal Usage
 
-!![Normal usage of Devices connected during DOS Attack ](router_log_analysis_graphs/ddos_hourly_usage.png")
+![Normal usage of Devices connected during DOS Attack ](router_log_analysis_graphs/ddos_hourly_usage.png)
 
 ### Protocols Used - Normal Usage
 
